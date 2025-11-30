@@ -1,5 +1,5 @@
 // sw.js  (자동 업데이트 최적화 버전)
-const BUILD = 'v6';                   // ← 배포할 때마다 숫자만 올려줘요
+const BUILD = 'v7';                   // ← 배포할 때마다 숫자만 올려줘요
 const CACHE = `wordlink-${BUILD}`;
 
 const ASSETS = [
